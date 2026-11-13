@@ -1,0 +1,14 @@
+.movie-grid-matrix {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Forces exactly 3 columns side-by-side */
+    gap: 40px; /* Adds clean spacing between cards */
+}
+
+/* Base Desktop Matrix (3 Columns) */
+.movie-grid-matrix {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 45px;
+    justify-items: center;
+    height: fit-content;
+}

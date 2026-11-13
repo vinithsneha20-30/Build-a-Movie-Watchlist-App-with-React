@@ -1,0 +1,184 @@
+[
+  {
+    "rank": 1,
+    "title": "Stranger Things",
+    "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
+    "image": "https://wallpapercat.com/w/middle-vertical-retina/f/7/3/124394-1440x2560-iphone-hd-stranger-things-background.jpg",
+    "big_image": "https://wallpapercat.com/w/middle-vertical-retina/f/7/3/124394-1440x2560-iphone-hd-stranger-things-background.jpg",
+    "genre": [
+      "Thriller",
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "thumbnail": "data:image/jpeg;base64,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",
+    "rating": 8.6,
+    "id": "top1",
+    "year": "2015-2025",
+    "imdbid": "tt4574334",
+    "imdb_link": "https://www.imdb.com/title/tt4574334/"
+  },
+  {
+    "rank": 2,
+    "title": "The Boys",
+    "description": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
+    "image": "https://wallpapercat.com/w/small-vertical-retina/8/d/b/16242-1080x2340-phone-hd-the-boys-background-photo.jpg",
+    "big_image": "https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@",
+    "genre": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": 8.7,
+    "id": "top2",
+    "year": "2019-",
+    "imdbid": "tt1190634",
+    "imdb_link": "https://www.imdb.com/title/tt1190634"
+  },
+  {
+    "rank": 3,
+    "title": "Game of Thrones",
+    "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for a millennia.",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+    "big_image": "https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": 9.2,
+    "id": "top3",
+    "year": "2011-2019",
+    "imdbid": "tt0944947",
+    "imdb_link": "https://www.imdb.com/title/tt0944947"
+  },
+  {
+    "rank": 4,
+    "title": "Band of Brothers",
+    "description": "The story of Easy Company of the U.S. Army 101st Airborne Division and their mission in World War II Europe, from Operation Overlord to V-J Day.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_QL75_UX380_CR0,1,380,562_.jpg",
+    "big_image": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3",
+    "genre": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": 9.4,
+    "id": "top4",
+    "year": "2001",
+    "imdbid": "tt0185906",
+    "imdb_link": "https://www.imdb.com/title/tt0185906"
+  },
+  {
+    "rank": 5,
+    "title": "Rome",
+    "description": "A down-to-earth account of the lives of both illustrious and ordinary Romans set in the last days of the Roman Republic.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTM4MmU1NWYtNzJjYy00YWFhLThjOGEtZmMxOGI1NzE0NGNiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+    "big_image": "https://m.media-amazon.com/images/M/MV5BYTM4MmU1NWYtNzJjYy00YWFhLThjOGEtZmMxOGI1NzE0NGNiXkEyXkFqcGdeQXVyNDIzMzcwNjc@",
+    "genre": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTM4MmU1NWYtNzJjYy00YWFhLThjOGEtZmMxOGI1NzE0NGNiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": 8.7,
+    "id": "top5",
+    "year": "2005-2007",
+    "imdbid": "tt0384766",
+    "imdb_link": "https://www.imdb.com/title/tt0384766"
+  },
+  {
+    "rank": 6,
+    "title": "The Wire",
+    "description": "The Baltimore drug scene, as seen through the eyes of drug dealers and law enforcement.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmY5ZDMxODEtNWIwOS00NjdkLTkyMjktNWRjMDhmYjJjN2RmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+    "big_image": "https://m.media-amazon.com/images/M/MV5BZmY5ZDMxODEtNWIwOS00NjdkLTkyMjktNWRjMDhmYjJjN2RmXkEyXkFqcGdeQXVyNTA4NzY1MzY@",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmY5ZDMxODEtNWIwOS00NjdkLTkyMjktNWRjMDhmYjJjN2RmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": 9.3,
+    "id": "top6",
+    "year": "2002-2008",
+    "imdbid": "tt0306414",
+    "imdb_link": "https://www.imdb.com/title/tt0306414"
+  },
+  {
+    "rank": 7,
+    "title": "Avatar: The Last Airbender",
+    "description": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+    "image": "https://m.media-amazon.com/images/M/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+    "big_image": "https://m.media-amazon.com/images/M/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@",
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": 9.3,
+    "id": "top7",
+    "year": "2005-2008",
+    "imdbid": "tt0417299",
+    "imdb_link": "https://www.imdb.com/title/tt0417299"
+  },
+  {
+    "rank": 8,
+    "title": "Arcane",
+    "description": "Set in Utopian Piltover and the oppressed underground of Zaun, the story follows the origins of two iconic League Of Legends champions and the power that will tear them apart.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmU5OWM5ZTAtNjUzOC00NmUyLTgyOWMtMjlkNjdlMDAzMzU1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+    "big_image": "https://m.media-amazon.com/images/M/MV5BYmU5OWM5ZTAtNjUzOC00NmUyLTgyOWMtMjlkNjdlMDAzMzU1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@",
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmU5OWM5ZTAtNjUzOC00NmUyLTgyOWMtMjlkNjdlMDAzMzU1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": 9,
+    "id": "top8",
+    "year": "2021-",
+    "imdbid": "tt11126994",
+    "imdb_link": "https://www.imdb.com/title/tt11126994"
+  },
+
+  {
+    "rank": 9,
+    "title": "The Last of Us",
+    "description": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+    "big_image": "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": 8.8,
+    "id": "top9",
+    "year": "2023-",
+    "imdbid": "tt3581920",
+    "imdb_link": "https://www.imdb.com/title/tt3581920"
+  },
+  {
+    "rank": 10,
+    "title": "Invincible",
+    "description": "An adult animated series based on the Skybound/Image comic about a teenager whose father is the most powerful superhero on the planet.",
+    "image": "https://wallpapercat.com/w/middle-vertical-retina/3/e/a/118694-1080x1920-samsung-1080p-invincible-background.jpg",
+    "big_image": "https://wallpapercat.com/w/middle-vertical-retina/3/e/a/118694-1080x1920-samsung-1080p-invincible-background.jpg",
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2Q1NWExNzEtM2M1Ny00ZDJhLWIwN2MtZGI5ZGI4MzBlYTQyXkEyXkFqcGdeQXVyOTYyMTY2NzQ@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": 8.7,
+    "id": "top10",
+    "year": "2021-",
+    "imdbid": "tt6741278",
+    "imdb_link": "https://www.imdb.com/title/tt6741278"
+  }
+]

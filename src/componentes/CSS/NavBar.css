@@ -1,0 +1,27 @@
+.ancher{
+    color : lightgray;
+    transition: transform 0.3s ease-out, color 0.2s ease;
+    transform: scale(1);
+}
+
+.ancher:hover{
+    color: darkorange;
+    transform: scale(1.15);
+}
+
+input{
+    width: 65%;
+    transition: width 0.3s ease;
+    background-color: black;
+}
+
+input:hover{
+    width: 75%;
+    border-color: darkblue;
+}
+
+input:focus {
+    border-color: blue;
+    outline: none;
+    background-color: #1E1E1E;
+}
